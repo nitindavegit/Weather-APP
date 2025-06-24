@@ -1,25 +1,42 @@
-# Weather App
+# 🌦️ Weather App – Flutter
 
-A beautiful and modern Flutter application that displays current weather, hourly forecasts, and additional weather information for a given city using the OpenWeatherMap API.
+A beautiful, responsive, and modern **Flutter weather app** that shows current weather, hourly forecasts, and key additional information — all powered by the OpenWeatherMap API.
+
+Built with a focus on clean UI, Material 3 design, and smooth user experience.
 
 ---
 
 ## ✨ Features
 
-- **Current Weather:** Displays temperature, sky condition, and weather icon for the selected city (default: Surat).
-- **Hourly Forecast:** Horizontally scrollable cards showing the next 8 hours of forecast.
-- **Additional Information:** Shows humidity, wind speed, and pressure.
-- **Pull-to-Refresh:** Instantly refresh weather data.
-- **Modern UI:** Clean, Material 3 design with dark theme.
+🔹 **Current Weather Overview**  
+Get real-time temperature, sky condition (like Sunny, Clouds, Rain), and icon visuals for your city.
+
+🔹 **Hourly Forecast**  
+Horizontally scrollable forecast cards showing weather for the next 8 hours with temperature, time, and sky icon.
+
+🔹 **Additional Weather Info**  
+Detailed metrics like:
+- 💧 Humidity  
+- 💨 Wind Speed  
+- 🎯 Atmospheric Pressure  
+
+🔹 **Pull-to-Refresh**  
+Tap the refresh icon (🔄) in the AppBar to fetch the latest weather data instantly.
+
+🔹 **Modern Material UI**  
+Responsive dark-themed design using Material 3 widgets, cards, and animations.
 
 ---
 
-## 📱 Screenshots
-![Dark theme](dark.png)
-<br>
-![Light theme](light.png)
----
+## 📸 Screenshots
 
+<p align="center">
+  <img src="dark.png" alt="Dark Theme" width="45%" />
+  &nbsp; &nbsp;
+  <img src="light.png" alt="Light Theme" width="45%" />
+</p>
+
+---
 ## 🚀 Getting Started
 
 ### Prerequisites
