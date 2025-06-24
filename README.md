@@ -16,6 +16,7 @@ A beautiful and modern Flutter application that displays current weather, hourly
 
 ## 📱 Screenshots
 ![Dark theme](dark.png)
+<br>
 ![Light theme](light.png)
 ---
 
